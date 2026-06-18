@@ -1,0 +1,112 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ListItemEdit"
+    },
+    {
+      "name": "edit",
+      "value": "Edit"
+    },
+    {
+      "name": "deleted",
+      "value": "Successfully deleted"
+    },
+    {
+      "name": "incomplete",
+      "value": "Incomplete"
+    },
+    {
+      "name": "todo",
+      "value": "To-Do List"
+    },
+    {
+      "name": "undo",
+      "value": "Ongoing"
+    },
+    {
+      "name": "done",
+      "value": "Completed"
+    },
+    {
+      "name": "search_hint",
+      "value": "Search tasks..."
+    },
+    {
+      "name": "add_task",
+      "value": "Add Task"
+    },
+    {
+      "name": "task_name_hint",
+      "value": "Enter task name..."
+    },
+    {
+      "name": "priority",
+      "value": "Priority"
+    },
+    {
+      "name": "due_date",
+      "value": "Due Date"
+    },
+    {
+      "name": "category",
+      "value": "Category"
+    },
+    {
+      "name": "confirm",
+      "value": "Confirm"
+    },
+    {
+      "name": "cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "clear_all",
+      "value": "Clear"
+    },
+    {
+      "name": "clear_confirm",
+      "value": "Clear all completed tasks?"
+    },
+    {
+      "name": "cleared",
+      "value": "Completed tasks cleared"
+    },
+    {
+      "name": "all_categories",
+      "value": "All"
+    },
+    {
+      "name": "none_category",
+      "value": "None"
+    },
+    {
+      "name": "name_empty_error",
+      "value": "Task name cannot be empty"
+    },
+    {
+      "name": "delete_category_in_use",
+      "value": "Cannot delete: category is in use"
+    },
+    {
+      "name": "category_manage",
+      "value": "Manage Categories"
+    },
+    {
+      "name": "add_category",
+      "value": "Add Category"
+    },
+    {
+      "name": "category_name_hint",
+      "value": "Category name"
+    }
+  ]
+}
